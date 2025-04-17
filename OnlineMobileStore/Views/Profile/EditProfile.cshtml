@@ -1,0 +1,57 @@
+﻿@model OnlineMobileStore.Models.User
+@{
+    ViewData["Title"] = "Edit Profile";
+    Layout = "~/Views/Shared/AfterLogin.cshtml";
+}
+<section class="user-dashboard page-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline dashboard-menu text-center">
+                    <li><a class="active" href="/Profile/Index">Profile Details</a></li>
+                    <li><a class="active" href="/Profile/History">Orders</a></li>
+                    <li><a class="active" href="/Profile/EditProfile">Edit Profile</a></li>
+                </ul>
+                    <h2 class="text-center">Welcome Back</h2>
+                    <form class="text-left clearfix" method="POST" asp-controller="Profile" asp-action="EditProfile" onsubmit="return validatePasswords()">
+                        <div class="form-group">
+                            <label>First Name</label>
+                            <input type="text" class="form-control" placeholder=" Enter Your First Name" asp-for="FirstName" required minlength="3">
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Last Name</label>
+                            <input asp-for="LastName" class="form-control" placeholder="Enter Your Last Name" required asp-for="LastName" required minlength="3">
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Password</label>
+                            <input class="form-control" name="Password" asp-for="Password" placeholder="Enter your password"  minlength="5" id="password">
+                            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                        </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword" class="control-label"></label>
+                        <input asp-for="ConfirmPassword" class="form-control" id="confirmPassword" placeholder="Confirm Your Password" minlength="5" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                        <div class="text-center">
+                        <button type="submit" class="btn btn-main pull-right">Save Changes</button>
+                        </div>
+                     
+                    </form>
+                    <script>
+                        function validatePasswords() {
+                            var password = document.getElementById("password").value;
+                            var confirmPassword = document.getElementById("confirmPassword").value;
+                            if (password !== confirmPassword) {
+                                alert("Passwords do not match!");
+                                return false;
+                            }
+                            return true;
+                        }
+                    </script>
+            </div>
+        </div>
+    </div>
+</section>
+

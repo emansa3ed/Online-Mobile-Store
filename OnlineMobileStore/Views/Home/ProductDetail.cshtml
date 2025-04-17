@@ -1,0 +1,80 @@
+﻿
+@model List<OnlineMobileStore.Models.Mobile>
+@{
+
+	var isLoggedIn = Context.Session.GetString("IsLoggedIn");
+	var isRegistered = Context.Session.GetString("IsRegistered");
+	var Role = Context.Session.GetString("Role");
+	Layout = ((isLoggedIn == "true" || isRegistered == "true") && Role == "User") ? "~/Views/Shared/AfterLogin.cshtml" : "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="single-product">
+	<div class="container">
+		@foreach( var mobile in Model)
+		{
+		<div class="row">
+			<div class="col-md-6">
+				<h2>@mobile.Name</h2>
+			</div>
+		</div>
+		<div class="row mt-20">
+			<div class="col-md-5">
+				<div class="single-product-slider">
+					<div id='carousel-custom' class='carousel slide' data-ride='carousel'>
+						<div class='carousel-outer'>
+							<!-- me art lab slider -->
+							<div class='carousel-inner '>
+								<div class='item active'>
+										<img src='/MyImages/mobile/@mobile.Image' alt='' data-zoom-image="@mobile.Image" />
+								</div>	
+							</div>
+						</div>				
+					</div>
+				</div>
+			</div>
+			<div class="col-md-7">
+				<div class="single-product-details">
+						<div class="product-quantity">
+							<span>Price: </span>
+							<div class="product-quantity-slider">
+								<p>$@mobile.Price</p>
+							</div>
+						</div>
+
+					<div class="product-quantity">
+						<span>Screen:</span>
+						<div class="product-quantity-slider">
+							<p>@mobile.Screen</p>
+						</div>
+					</div>
+						<div class="product-quantity">
+							<span>Battery: </span>
+							<div class="product-quantity-slider">
+								<p>@mobile.Battery</p>
+							</div>
+						</div>
+						<div class="product-quantity">
+							<span>Camera:</span>
+							<div class="product-quantity-slider">
+								<p>@mobile.Camera</p>
+							</div>
+						</div>
+						<div class="product-quantity">
+							<span>OS:</span>
+							<div class="product-quantity-slider">
+								<p>@mobile.OS</p>
+							</div>
+						</div>
+					
+						<a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@mobile.Id" class="btn btn-main mt-20">Add To Cart</a>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			
+			</div>
+		}
+		</div>
+	
+	</div>
+</section>

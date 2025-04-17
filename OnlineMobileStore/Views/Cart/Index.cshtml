@@ -1,0 +1,85 @@
+﻿@model List<OnlineMobileStore.Models.Mobile>
+
+    @{
+        ViewData["Title"] = "Your Cart";
+        Layout = "~/Views/Shared/AfterLogin.cshtml";
+    }
+
+    @if (!Model.Any())
+    {
+        <h3 class="text-center">Cart is Empty</h3>
+    }
+    else
+    {
+        <div class="page-wrapper">
+            <div class="cart shopping">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <div class="block">
+                                <div class="product-list">
+                                    @if (TempData["Message"] != null)
+                                    {
+                                        <div class="alert alert-danger" role="alert">
+                                            @TempData["Message"]
+                                        </div>
+                                    }
+                                    <form asp-action="UpdateCart" method="post">
+                                        <table class="table">
+                                            <thead>
+                                                <tr>
+                                                    <th class="">Item Image</th>
+                                                    <th class="">Item Name</th>
+                                                    <th class="">Item Quantity</th>
+                                                    <th class="">Item Price</th>
+                                                    <th class="">Total Price</th>
+                                                    <th class="">Actions</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @for (int i = 0; i < Model.Count; i++)
+                                                {
+                                                    <tr>
+                                                        <td>
+                                                            <img src="/MyImages/mobile/@Model[i].Image" style="height: 4em">
+                                                        </td>
+                                                        <td>
+                                                            @Model[i].Name
+                                                        </td>
+                                                        <td>
+                                                            <input type="number" name="cartUpdates[@i].Quantity" value="@Model[i].Quantity" min="0">
+                                                            <input type="hidden" name="cartUpdates[@i].Id" value="@Model[i].Id" />
+                                                        </td>
+                                                        <td>
+                                                            @Model[i].Price
+                                                        </td>
+                                                        <td>
+                                                            @(Model[i].Quantity * Model[i].Price)
+                                                        </td>
+                                                        <td>
+                                                            <a asp-controller="Cart" asp-action="RemoveFromCart" asp-route-id="@Model[i].Id" class="text-danger"><i class="fas fa-trash fa-lg"></i>Remove</a>
+                                                        </td>
+                                                    </tr>
+                                                }
+                                                <tr>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td><strong>Total Items: @ViewBag.TotalItems</strong></td>
+                                                <td><strong>Total Price: @ViewBag.TotalPrice</strong></td>
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <button type="submit" class="btn btn-main mt-20">Update Cart</button>
+                                </form>
+
+                                <a href="/Cart/ConfirmOrder" class="btn btn-main pull-right">Confirm</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

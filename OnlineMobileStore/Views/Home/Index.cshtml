@@ -1,0 +1,55 @@
+﻿@model List<OnlineMobileStore.Models.Company>
+
+@{
+
+    var isLoggedIn = Context.Session.GetString("IsLoggedIn");
+    var isRegistered = Context.Session.GetString("IsRegistered");
+    var Role = Context.Session.GetString("Role");
+    Layout = ((isLoggedIn == "true" || isRegistered == "true") && Role == "User") ? "~/Views/Shared/AfterLogin.cshtml" : "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="hero-slider">
+    <div class="slider-item th-fullpage hero-area" style="background-image: url(/images/slider/home.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 text-center">
+                    <h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".5">The beauty of nature <br> is hidden in details.</h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<section>
+    <div>
+        <div>
+            <div class="col-md-12">
+                <div class="title text-center">
+                    <h2>Product Category</h2>
+                </div>
+            </div>
+
+            <div class="category-container">
+                @foreach (var Company in Model)
+                {
+                    <div class="category-box" style="height:500px; width:500px; display:inline-block; margin-left:10%">
+                        <a href="/Home/Mobile/@Company.Id">
+                            <img src="@Company.Image" alt="" style="height:350px; width:350px">
+                            <div class="content">
+                                <h3>@Company.Name</h3>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

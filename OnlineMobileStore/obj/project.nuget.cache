@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "OF1DwDsL4IQ=",
+  "success": false,
+  "projectFilePath": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\OnlineMobileStore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.Elfie.1.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.elfie/1.0.0/microsoft.codeanalysis.elfie.1.0.0.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'System.Text.Json.7.0.3' from 'https://api.nuget.org/v3-flatcontainer/system.text.json/7.0.3/system.text.json.7.0.3.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.Scripting.Common.4.8.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.scripting.common/4.8.0/microsoft.codeanalysis.scripting.common.4.8.0.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CodeAnalysis.Scripting.Common' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.scripting.common/index.json'.",
+      "libraryId": "Microsoft.CodeAnalysis.Scripting.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CodeAnalysis.Elfie' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.elfie/index.json'.",
+      "libraryId": "Microsoft.CodeAnalysis.Elfie"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Text.Json' from remote source 'https://api.nuget.org/v3-flatcontainer/system.text.json/index.json'.",
+      "libraryId": "System.Text.Json"
+    }
+  ]
+}

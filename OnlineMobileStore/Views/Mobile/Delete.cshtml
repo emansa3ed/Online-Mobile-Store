@@ -1,0 +1,109 @@
+﻿@model OnlineMobileStore.Models.Mobile
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Add your head content here -->
+    <style>
+        .book-info {
+            margin-left: 20px; /* Adjust the margin as needed */
+        }
+
+        .book-image {
+            max-width: 50%;
+            height: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="row book-info">
+        <div class="col-md-6">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>@Model.Name</h2>
+                    </div>
+                </div>
+                <div class="row mt-20">
+                    <div class="col-md-5">
+                        <div class="single-product-slider">
+                            <div id='carousel-custom' class='carousel slide' data-ride='carousel'>
+                                <div class='carousel-outer'>
+                                    <!-- me art lab slider -->
+                                    <div class='carousel-inner '>
+                                        <div class='item active'>
+                                            <img src="/MyImages/mobile/@Model.Image" alt='' data-zoom-image="@Model.Image" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="single-product-details">
+                            <div class="product-quantity">
+                                <span>Price: </span>
+                                <div class="product-quantity-slider">
+                                    <p>$@Model.Price</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>Processor:</span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.Processor</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>Quantity:</span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.Quantity</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>Screen:</span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.Screen</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>Battery: </span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.Battery</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>Camera:</span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.Camera</p>
+                                </div>
+                            </div>
+                            <div class="product-quantity">
+                                <span>OS:</span>
+                                <div class="product-quantity-slider">
+                                    <p>@Model.OS</p>
+                                </div>
+                            </div>
+
+                            <div class="row mt-3 book-info">
+                                <div class="col-md-12 text-center">
+                                    <form asp-action="Delete">
+                                        <input type="hidden" asp-for="Id" />
+                                        <input type="submit" value="Delete" class="btn btn-danger" /> |
+                                        <a asp-controller="Mobile" asp-action="Index" class="ti-more-alt">Back to List</a>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

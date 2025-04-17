@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineMobileStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineMobileStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\1a5a776d-89e0-4494-b88d-32748baa28b6.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\1a5a776d-89e0-4494-b88d-32748baa28b6.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\1d7e331d-ae01-4b49-b7a8-2a2b45e75136.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\1d7e331d-ae01-4b49-b7a8-2a2b45e75136.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\3259d5f5-79cd-495d-95a7-2adbd02fec25.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\3259d5f5-79cd-495d-95a7-2adbd02fec25.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\3c40aac4-c123-4f34-b920-541f5482065c.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\3c40aac4-c123-4f34-b920-541f5482065c.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\3ccaf71c-d63c-4534-bac0-0d21a4106b24.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\3ccaf71c-d63c-4534-bac0-0d21a4106b24.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\3f47a821-b7aa-4797-a7c1-16bb09ce32ac.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\3f47a821-b7aa-4797-a7c1-16bb09ce32ac.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\453819b6-c005-4732-a57e-057163b2f0bd.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\453819b6-c005-4732-a57e-057163b2f0bd.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\4864c156-47c3-4181-ad11-c0dad70ddde5.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\4864c156-47c3-4181-ad11-c0dad70ddde5.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\4a4fb346-0f31-43d2-8fa4-22309d2eece2.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\4a4fb346-0f31-43d2-8fa4-22309d2eece2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\4d75533a-7d1a-4c14-9f00-fb833bba0139.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\4d75533a-7d1a-4c14-9f00-fb833bba0139.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\4fb6626c-81df-424a-9a2e-b9382ac916ca.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\4fb6626c-81df-424a-9a2e-b9382ac916ca.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\51cbb0ea-4298-4720-84f0-72b0f2659b11.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\51cbb0ea-4298-4720-84f0-72b0f2659b11.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\5977f5a3-b816-47a4-9655-08a9d2b11db9.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\5977f5a3-b816-47a4-9655-08a9d2b11db9.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\5a86a51b-bf05-4dd3-a6fa-f2852c55cb9a.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\5a86a51b-bf05-4dd3-a6fa-f2852c55cb9a.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\6e6246db-2e7c-4763-9cb3-1d80427adf53.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\6e6246db-2e7c-4763-9cb3-1d80427adf53.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\75cdc49f-de4b-4424-ae94-fcd52d631e9d.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\75cdc49f-de4b-4424-ae94-fcd52d631e9d.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\910ce391-f78b-46ef-8234-556d391a8fed.docx",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\910ce391-f78b-46ef-8234-556d391a8fed.docx"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\9ba1c280-4055-459a-8b97-eaf12bc226d1.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\9ba1c280-4055-459a-8b97-eaf12bc226d1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\ac55e0fa-0706-47ef-8a06-c31b60b7de82.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\ac55e0fa-0706-47ef-8a06-c31b60b7de82.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\b03e9198-3dc5-497a-bb36-9deff80f9798.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\b03e9198-3dc5-497a-bb36-9deff80f9798.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\c7b9e7c5-73d1-4204-a150-a5772bcd9764.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\c7b9e7c5-73d1-4204-a150-a5772bcd9764.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\eab75fd1-2236-4084-b9cb-2baa6c27b659.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\eab75fd1-2236-4084-b9cb-2baa6c27b659.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\f3ac2648-ab8e-40c1-a6c4-ddc2f7ea81c2.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\f3ac2648-ab8e-40c1-a6c4-ddc2f7ea81c2.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\fb550a29-752d-48ed-9a76-984a1ad26bec.jpg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\fb550a29-752d-48ed-9a76-984a1ad26bec.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\findn2.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\findn2.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\iphone13.png",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\iphone13.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\reno8.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\reno8.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\MyImages\\mobile\\samUltra.jpeg",
+      "PackagePath": "staticwebassets\\MyImages\\mobile\\samUltra.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\css\\home.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\2a27453b-1c3c-4848-b522-088ab7f7ea69_oneplus-slider.jpg",
+      "PackagePath": "staticwebassets\\images\\2a27453b-1c3c-4848-b522-088ab7f7ea69_oneplus-slider.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\344d05c0-780a-47d6-a1fe-83c79fedb93b_samsung.png",
+      "PackagePath": "staticwebassets\\images\\344d05c0-780a-47d6-a1fe-83c79fedb93b_samsung.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\40d0dbfe-8b59-46c9-bcd9-52cedc6f6637_oppo.png",
+      "PackagePath": "staticwebassets\\images\\40d0dbfe-8b59-46c9-bcd9-52cedc6f6637_oppo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\48bad4cb-d36e-4ca2-9606-2002b326c23e_offer.jpg",
+      "PackagePath": "staticwebassets\\images\\48bad4cb-d36e-4ca2-9606-2002b326c23e_offer.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\6bb5e738-1d5e-4d26-b685-91d402f50860_OIP.jpeg",
+      "PackagePath": "staticwebassets\\images\\6bb5e738-1d5e-4d26-b685-91d402f50860_OIP.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\91f1e298-c29d-4d90-b8ed-47a53c5148ef_samsung.jpeg",
+      "PackagePath": "staticwebassets\\images\\91f1e298-c29d-4d90-b8ed-47a53c5148ef_samsung.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\94e8cffa-d009-4cd6-a098-27b49dff93d1_oppo.png",
+      "PackagePath": "staticwebassets\\images\\94e8cffa-d009-4cd6-a098-27b49dff93d1_oppo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\a104c59a-20bd-461e-8d20-f6cc5b392487_huawei.png",
+      "PackagePath": "staticwebassets\\images\\a104c59a-20bd-461e-8d20-f6cc5b392487_huawei.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\a32c770f-0000-4588-a235-2b3d34568d64_realme.png",
+      "PackagePath": "staticwebassets\\images\\a32c770f-0000-4588-a235-2b3d34568d64_realme.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\a682e29e-a102-4de8-8342-3f5205c62f0d_realme.png",
+      "PackagePath": "staticwebassets\\images\\a682e29e-a102-4de8-8342-3f5205c62f0d_realme.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\about\\awards-logo.png",
+      "PackagePath": "staticwebassets\\images\\about\\awards-logo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\account_3033143.png",
+      "PackagePath": "staticwebassets\\images\\account_3033143.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\avater.jpg",
+      "PackagePath": "staticwebassets\\images\\avater.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\backgrounds\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\backgrounds\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\avater-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\avater-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\avater-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\avater-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\blog-post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-7.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\blog\\post-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\category\\OIP.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\OIP.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\category\\huawei.png",
+      "PackagePath": "staticwebassets\\images\\category\\huawei.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\category\\oppo.png",
+      "PackagePath": "staticwebassets\\images\\category\\oppo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\category\\samsung.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\samsung.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\cd9592ee-8ef2-4f63-ad79-e586a97d3b24_vivo.png",
+      "PackagePath": "staticwebassets\\images\\cd9592ee-8ef2-4f63-ad79-e586a97d3b24_vivo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\fbc2448e-d6d5-43b9-8602-293dc4ae6834_samsung.jpeg",
+      "PackagePath": "staticwebassets\\images\\fbc2448e-d6d5-43b9-8602-293dc4ae6834_samsung.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\fc8bd641-5e0d-4a32-93f3-2b9bedbe48f4_grad.jpg",
+      "PackagePath": "staticwebassets\\images\\fc8bd641-5e0d-4a32-93f3-2b9bedbe48f4_grad.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\mobiles\\findn2.jpeg",
+      "PackagePath": "staticwebassets\\images\\mobiles\\findn2.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\mobiles\\iphone13.png",
+      "PackagePath": "staticwebassets\\images\\mobiles\\iphone13.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\mobiles\\reno8.jpeg",
+      "PackagePath": "staticwebassets\\images\\mobiles\\reno8.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\mobiles\\samUltra.jpeg",
+      "PackagePath": "staticwebassets\\images\\mobiles\\samUltra.jpeg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\category\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\category\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\category\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\header-img.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\header-img.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\modal-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\modal-product.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\products\\single-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\single-product.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\single-products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\shop\\verified.png",
+      "PackagePath": "staticwebassets\\images\\shop\\verified.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\slider\\home.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\home.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\demo.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\favicon.ico",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\index.html",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\index.html"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\google-map\\images\\marker.png",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\images\\marker.png"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\instafeed\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\instafeed\\instafeed.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\README.markdown",
+      "PackagePath": "staticwebassets\\plugins\\slick\\README.markdown"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\slick-animation.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-animation.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\syo-timer\\build\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\plugins\\syo-timer\\build\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\Read Me.txt",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\demo.html",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo.html"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.eot",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.eot"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.svg",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.woff",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.woff"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\selection.json",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\selection.json"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\plugins\\themefisher-font\\style.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\style.css"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\_color.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\_media-query.scss",
+      "PackagePath": "staticwebassets\\scss\\_media-query.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\home.scss",
+      "PackagePath": "staticwebassets\\scss\\home.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_404.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_404.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_about.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_account.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_account.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_backgrounds.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_blog.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_clients.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_clients.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_coming-soon.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_coming-soon.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_contact.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_counter.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_counter.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_header.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_instagram.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_instagram.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_navigation.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_navigation.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_pricing.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_pricing.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_products.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_products.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_shopping.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_shopping.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_single-post.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_single-post.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_single-product.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_single-product.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_slider.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\scss\\templates\\_user-dashboard.scss",
+      "PackagePath": "staticwebassets\\scss\\templates\\_user-dashboard.scss"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\shop\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\shop\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\shop\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\category\\category-1.jpg",
+      "PackagePath": "staticwebassets\\shop\\category\\category-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\category\\category-2.jpg",
+      "PackagePath": "staticwebassets\\shop\\category\\category-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\category\\category-3.jpg",
+      "PackagePath": "staticwebassets\\shop\\category\\category-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\header-img.jpg",
+      "PackagePath": "staticwebassets\\shop\\header-img.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\modal-product.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\modal-product.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\products\\single-product.jpg",
+      "PackagePath": "staticwebassets\\shop\\products\\single-product.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\single-products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\shop\\single-products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\Online_Mobile_Store-main\\Online_Mobile_Store-main\\OnlineMobileStore\\wwwroot\\shop\\verified.png",
+      "PackagePath": "staticwebassets\\shop\\verified.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineMobileStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineMobileStore.props",
+      "PackagePath": "build\\OnlineMobileStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineMobileStore.props",
+      "PackagePath": "buildMultiTargeting\\OnlineMobileStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineMobileStore.props",
+      "PackagePath": "buildTransitive\\OnlineMobileStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

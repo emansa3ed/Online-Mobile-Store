@@ -1,0 +1,45 @@
+﻿@model OnlineMobileStore.Models.Order
+@{
+	ViewData["Title"] = "Order Details";
+	Layout = "~/Views/Shared/AfterLogin.cshtml";
+}
+<section class="user-dashboard page-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline dashboard-menu text-center">
+                    <li><a class="active" href="/Profile/Index">Profile Details</a></li>
+                    <li><a class="active" href="/Profile/History">Orders</a></li>
+                    <li><a class="active" href="/Profile/EditProfile">Edit Profile</a></li>
+                </ul>
+<h1>Details</h1>
+<div class="order-details">
+    <h2>Order Details</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Item Image</th>
+                <th>Item Name</th>
+                <th>Item Quantity </th>
+                <th>Item Price</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderItems)
+            {
+                <tr>
+                    <td><img src="/MyImages/mobile/@item.Image" style="height: 4em" /></td>
+                    <td>@item.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price</td>
+                    <td>@(item.Quantity * item.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+            </div>
+        </div>
+    </div>
+</section>

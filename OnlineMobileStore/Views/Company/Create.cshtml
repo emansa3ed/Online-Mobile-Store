@@ -1,0 +1,64 @@
+﻿@model OnlineMobileStore.Models.Company
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Company</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Company" asp-action="Create" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col-12">
+                <label for="uploadImage">Upload Image</label>
+                <input type="file" class="form-control mb-3" id="uploadImage" name="ProfileImageFile" />
+                <span asp-validation-for="ProfileImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-main mt-20" value="Create" />
+            </div>
+
+            <div>
+                <a class="btn btn-main mt-20" asp-controller="Company" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+
+        <script>
+            function validateForm() {
+                var fileInput = document.getElementById("uploadImage");
+
+                // Check if any files are selected
+                if (fileInput.files.length > 0) {
+                    var filePath = fileInput.value;
+                    var allowedExtensions = /(\.jpg|\.jpeg|\.png)$/i;
+
+                    // Check the file extension
+                    var fileName = fileInput.files[0].name;
+                    if (!allowedExtensions.exec(fileName)) {
+                        alert('Please upload only images with the following extensions: .jpg, .jpeg, .png');
+                        fileInput.value = '';
+                        return false;
+                    }
+                }
+                // Continue with other form validation logic
+                return true;
+            }
+        </script>
+
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-main mt-20 asp-controller="Company" asp-action="Index">Back to List</a>
+</div>
+
+

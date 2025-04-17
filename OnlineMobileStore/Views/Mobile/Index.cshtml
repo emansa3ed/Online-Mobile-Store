@@ -1,0 +1,86 @@
+﻿@model IEnumerable<OnlineMobileStore.Models.Mobile>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <style>
+                .container {
+                    display: flex;
+                    justify-content: center;
+                }
+
+                table {
+                    border-collapse: collapse;
+                    width: 70%; 
+                }
+                .add{
+                    justify-content: center;
+                 
+                }
+
+             
+            </style>
+        </head>
+        <body>
+    <div class="container">
+        <p class="add">
+            <a asp-action="Create" class="btn btn-main mt-20"><i class="ti-more-alt"></i>Add New</a>
+        </p>
+    </div>
+ 
+ <div class="container">
+<table class="table">
+   <thead>
+        <tr>
+            <th>ID</th>
+            <th>Mobile</th>
+            <th>Name</th>
+            <th>price</th>
+            <th>Quantity</th>
+            <th>Company</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a class="a-cleanup" asp-controller="Mobile" asp-action="Details" asp-route-id="@item.Id">@item.Id</a>
+                </td>
+
+                <td>
+                    <a class="a-cleanup" asp-controller="Mobile" asp-action="Details" asp-route-id="@item.Id"> <img src="/MyImages/mobile/@item.Image" style="height: 4em"> </a>
+                </td>
+               
+                <td>
+                    <a class="a-cleanup" asp-controller="Mobile" asp-action="Details" asp-route-id="@item.Id">@item.Name</a>
+                </td>
+                <td>
+                    @(item.Price)
+                </td>
+                <td>
+                   @(item.Quantity)
+                </td>
+             
+                <td>
+                    <a class="a-cleanup">@(item.Company?.Name ?? "Unknown")</a>
+                </td>
+                <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-main mt-20"><i class="ti-more-alt"></i>Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-main mt-20"><i class="ti-more-alt"></i>Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-main mt-20"><i class="ti-more-alt"></i>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+</div>
+</body>
+</html>

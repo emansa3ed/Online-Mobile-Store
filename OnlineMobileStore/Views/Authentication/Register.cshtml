@@ -1,0 +1,81 @@
+﻿@model OnlineMobileStore.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+<style>
+    .text-danger {
+        color: red;
+    }
+</style>
+<section class="signin-page account">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <div class="block text-center">
+          <a class="logo" href="index.html">
+            <img src="~images/logo.png" alt="">
+          </a>
+          <h2 class="text-center">Create Your Account</h2>
+                    
+                    <form  class="text-left clearfix" method="POST" asp-action="Register" enctype="multipart/form-data" onsubmit="return validatePasswords()">
+            <div class="form-group">
+               <label>First Name</label>
+                            <input type="text" class="form-control" placeholder=" Enter Your First Name" asp-for="FirstName" required minlength="3" >
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               <label>Last Name</label>
+                            <input asp-for="LastName" class="form-control" placeholder="Enter Your Last Name" required asp-for="LastName" required minlength="3" >
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               <label>User Name</label>
+                            <input asp-for="UserName" class="form-control" placeholder="Enter Your Username" required asp-for="UserName" required minlength="3">
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                     <label>Email</label>
+                            <input asp-for="Email" class="form-control" placeholder="Enter Your Email" asp-for="Email" required>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                   <label>Password</label>
+                            <input asp-for="Password" class="form-control" id="password" placeholder="Enter Your Password" asp-for="Password" required minlength="5">
+                            <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+                        <div class="form-group">
+                            <label asp-for="ConfirmPassword" class="control-label"></label>
+                            <input asp-for="ConfirmPassword" class="form-control" id="confirmPassword" placeholder="Confirm Your Password" required />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label >Phone Number</label>
+                            <input asp-for="PhoneNum" class="form-control" placeholder="Enter Your Phone Number" asp-for="PhoneNum" required minlength="11" maxlength="11" pattern="^[0-9]+$">
+                            <span asp-validation-for="PhoneNum" class="text-danger"></span>
+                        </div>
+            <div class="text-center">
+              <button type="submit" class="btn btn-main text-center">Sign In</button>
+            </div>
+                        @if (ViewData["Message"] != null)
+                        {
+                        <label class="alert-danger">@ViewData["Message"].ToString()</label>
+                        }
+          </form>
+                    <script>
+                        function validatePasswords() {
+                            var password = document.getElementById("password").value;
+                            var confirmPassword = document.getElementById("confirmPassword").value;
+                            if (password !== confirmPassword) {
+                                alert("Passwords do not match!");
+                                return false; 
+                            }
+                            return true; 
+                        }
+                    </script>
+                    <p class="mt-20">Already hava an account ?<a asp-controller="Authentication" asp-action="Login"> Login</a></p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

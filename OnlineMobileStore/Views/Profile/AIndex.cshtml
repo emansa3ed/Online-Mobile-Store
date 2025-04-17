@@ -1,0 +1,40 @@
+﻿@model OnlineMobileStore.Models.User
+
+@{
+	ViewData["Title"] = "Admin Profile";
+	Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<section class="user-dashboard page-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<ul class="list-inline dashboard-menu text-center">
+					<li><a class="active" href="/Profile/AIndex">Profile Details</a></li>
+					<li><a class="active" href="/Profile/AEditProfile">Edit Profile</a></li>
+				</ul>
+				<div class="dashboard-wrapper user-dashboard">
+					<div class="media">
+						<div class="media-body">
+							<h2 class="media-heading">Welcome @Model.UserName</h2>
+						</div>
+						<div class="dashboard-wrapper dashboard-user-profile">
+							<div class="media">
+								<div class="pull-left text-center" href="#!">
+									<img class="media-object user-img" src="/images/account_3033143.png" alt="Image">
+								</div>
+								<div class="media-body">
+									<ul class="user-profile-list">
+										<li><span>Full Name:</span>@Model.FirstName @Model.LastName</li>
+										<li><span>Email:</span>@Model.Email</li>
+										<li><span>Phone:</span>@Model.PhoneNum</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+

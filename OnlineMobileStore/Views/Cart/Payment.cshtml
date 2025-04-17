@@ -1,0 +1,115 @@
+﻿@using SessionSample
+@model OnlineMobileStore.Models.Payment
+@{
+    ViewData["Title"] = "Payment";
+    Layout = "~/Views/Shared/AfterLogin.cshtml";
+    var cart = Context.Session.Get<List<Mobile>>("ShoppingCart") ?? new List<Mobile>();
+    decimal totalPrice = cart.Sum(m => m.Price * m.Quantity);
+}
+
+<div class="page-wrapper">
+    <div class="checkout shopping">
+        <div class="container">
+            <div class="row">
+                <div class="block billing-details">
+                    <h4 class="widget-title">Billing Details</h4>
+                    <form class="checkout-form" method="post" asp-controller="Cart" asp-action="Payment">
+                        <div class="form-group">
+                            <label asp-for="Address">Address</label>
+                            <input asp-for="Address" class="form-control" id="user_address" placeholder="Enter your address" >
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="checkout-country-code clearfix">
+                            <div class="form-group">
+                                <label asp-for="City">City</label>
+                                <input asp-for="City" class="form-control" id="user_city" placeholder="Enter your city" >
+                                <span asp-validation-for="City" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ZipCode">Zip Code</label>
+                                <input asp-for="ZipCode" class="form-control" id="user_post_code" placeholder="Enter your zip code" >
+                                <span asp-validation-for="ZipCode" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Country">Country</label>
+                            <input asp-for="Country" class="form-control" id="user_country" placeholder="Enter your country" >
+                            <span asp-validation-for="Country" class="text-danger"></span>
+                        </div>
+
+                        <div class="block">
+                            <h4 class="widget-title">Payment Method</h4>
+                            <p>Select Payment Method</p>
+                            <div class="form-group">
+                                <select asp-for="PaymentMethod" class="form-control" id="paymentMethod" >
+                                    <option value="creditCard">Credit Card</option>
+                                    <option value="cash">Cash</option>
+                                </select>
+                            </div>
+                            <div id="creditCardDetails">
+                                <div class="form-group">
+                                    <label for="creditCardNumber">Card Number</label>
+                                    <input type="text" class="form-control" id="creditCardNumber" name="creditCardNumber" >
+                                </div>
+                                <div class="checkout-country-code clearfix">
+                                    <!-- Credit Card Details Fields -->
+                                    <div class="form-group">
+                                        <label for="CVV">CVV</label>
+                                        <input type="text" class="form-control" id="creditCardNumber" name="CVV" >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="expiryDate">Expiry Date (MM/YY)</label>
+                                        <input type="text" class="form-control" id="expiryDate" name="expiryDate" >
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="Amount">Amount</label>
+                                    <input type="text" class="form-control" id="Amount" name="Amount" value="$ @totalPrice" readonly>
+                                </div>
+                            </div>
+                            <div id="cashDetails" style="display:none;">
+                                <!-- Cash Payment Details Fields -->
+                                <div class="form-group">
+                                    <label for="cashAmount">Cash Amount</label>
+                                    <input type="text" class="form-control" id="Amount" name="Amount" value="$ @totalPrice" readonly>
+                                </div>
+                                <!-- Add other cash payment details fields here -->
+                            </div>
+                            <button type="submit" class="btn btn-main pull-right">Place Order</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Function to show credit card details fields and hide cash details fields
+    function showCreditCardDetails() {
+        document.getElementById('creditCardDetails').style.display = 'block';
+        document.getElementById('cashDetails').style.display = 'none';
+    }
+
+    // Function to show cash details fields and hide credit card details fields
+    function showCashDetails() {
+        document.getElementById('creditCardDetails').style.display = 'none';
+        document.getElementById('cashDetails').style.display = 'block';
+    }
+
+    // Function to handle payment method change
+    function handlePaymentMethodChange() {
+        var paymentMethod = document.getElementById('paymentMethod').value;
+        if (paymentMethod === 'creditCard') {
+            showCreditCardDetails();
+        } else if (paymentMethod === 'cash') {
+            showCashDetails();
+        }
+    }
+
+    // Attach event listener to payment method dropdown
+    document.getElementById('paymentMethod').addEventListener('change', handlePaymentMethodChange);
+
+    // Initialize form based on default payment method
+    handlePaymentMethodChange();
+</script>

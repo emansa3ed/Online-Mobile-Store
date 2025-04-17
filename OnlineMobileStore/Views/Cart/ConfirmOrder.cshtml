@@ -1,0 +1,48 @@
+﻿@model List<OnlineMobileStore.Models.Mobile>
+@{
+    ViewData["Title"] = "Confirm Order";
+    Layout = "~/Views/Shared/AfterLogin.cshtml";
+}
+<div class="page-wrapper">
+    <div class="cart shopping">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="block">
+                        <div class="product-list">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Item Image</th>
+                                        <th>Item Name</th>
+                                        <th>Item Quantity</th>
+                                        <th>Item Price</th>
+                                        <th>Total Price</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td><img src="/MyImages/mobile/@item.Image" style="height: 4em" /></td>
+                                            <td>@item.Name</td>
+                                            <td>@item.Quantity</td>
+                                            <td>@item.Price</td>
+                                            <td>@(item.Quantity * item.Price)</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <div>
+                                <strong>Total Items:</strong> @ViewBag.TotalItems<br />
+                                <strong>Total Price:</strong> @ViewBag.TotalPrice
+                            </div>
+                            <a asp-action="Payment" asp-controller="Cart" class="btn btn-main pull-right">Checkout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

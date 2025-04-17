@@ -1,0 +1,46 @@
+﻿@{
+
+    var isLoggedIn = Context.Session.GetString("IsLoggedIn");
+    var isRegistered = Context.Session.GetString("IsRegistered");
+    var Role = Context.Session.GetString("Role");
+    Layout = ((isLoggedIn == "true" || isRegistered == "true") && Role == "User") ? "~/Views/Shared/AfterLogin.cshtml" : "~/Views/Shared/_Layout.cshtml";
+}
+<section class="products section bg-gray">
+    <div class="container">
+        <div class="row">
+            <div class="title text-center">
+                <h2>Products</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            @foreach (var mobile in Model)
+            {
+                <div class="col-md-4">
+                    <div class="product-item">
+
+                        <div class="product-thumb">
+                            <img class="img-responsive" src="/MyImages/mobile/@mobile.Image" alt="product-img" />
+
+                            <div class="preview-meta">
+                                <ul>
+                                    <li> <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@mobile.Id"><i class="tf-ion-android-cart"></i></a> </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="product-content">
+                            <h4>@mobile.Name</h4>
+                            <p class="price">$@mobile.Price</p>
+                            <a href="/Home/ProductDetail/@mobile.Id" class="btn btn-main mt-20">Show Details</a>
+                            @if (mobile.Quantity <= 0)
+                            {
+                                <p><span style="color:red"> Out of stock </span>  </p>
+                            }
+                        </div>
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
